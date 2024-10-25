@@ -46,6 +46,8 @@ namespace GIT
 			// 
 			// label1
 			// 
+			this.label1.BackColor = System.Drawing.Color.Transparent;
+			this.label1.Font = new System.Drawing.Font("Myanmar Text", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.Location = new System.Drawing.Point(13, 13);
 			this.label1.Name = "label1";
 			this.label1.Size = new System.Drawing.Size(219, 23);
@@ -78,6 +80,7 @@ namespace GIT
 			// 
 			// label2
 			// 
+			this.label2.Font = new System.Drawing.Font("Myanmar Text", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label2.Location = new System.Drawing.Point(13, 73);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(100, 23);
@@ -86,16 +89,19 @@ namespace GIT
 			// 
 			// button1
 			// 
-			this.button1.Location = new System.Drawing.Point(13, 134);
+			this.button1.BackColor = System.Drawing.Color.Transparent;
+			this.button1.Font = new System.Drawing.Font("Microsoft YaHei UI", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.button1.Location = new System.Drawing.Point(13, 133);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(163, 39);
 			this.button1.TabIndex = 4;
 			this.button1.Text = "SACAR DATOS";
-			this.button1.UseVisualStyleBackColor = true;
+			this.button1.UseVisualStyleBackColor = false;
 			this.button1.Click += new System.EventHandler(this.Button1Click);
 			// 
 			// label3
 			// 
+			this.label3.BackColor = System.Drawing.Color.Transparent;
 			this.label3.Location = new System.Drawing.Point(13, 176);
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(805, 23);
@@ -106,6 +112,7 @@ namespace GIT
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+			this.BackColor = System.Drawing.Color.Gray;
 			this.ClientSize = new System.Drawing.Size(1012, 383);
 			this.Controls.Add(this.label3);
 			this.Controls.Add(this.button1);
