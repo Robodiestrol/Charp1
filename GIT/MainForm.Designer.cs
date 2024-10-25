@@ -59,6 +59,7 @@ namespace GIT
 			this.label13 = new System.Windows.Forms.Label();
 			this.label14 = new System.Windows.Forms.Label();
 			this.label15 = new System.Windows.Forms.Label();
+			this.button2 = new System.Windows.Forms.Button();
 			this.SuspendLayout();
 			// 
 			// label1
@@ -199,7 +200,6 @@ namespace GIT
 			this.label11.Size = new System.Drawing.Size(211, 23);
 			this.label11.TabIndex = 19;
 			this.label11.Text = " ";
-
 			// 
 			// monthCalendar1
 			// 
@@ -247,11 +247,22 @@ namespace GIT
 			this.label15.TabIndex = 26;
 			this.label15.Text = "Opten tu RFC despues de colocar los anteriores datos";
 			// 
+			// button2
+			// 
+			this.button2.Location = new System.Drawing.Point(970, 12);
+			this.button2.Name = "button2";
+			this.button2.Size = new System.Drawing.Size(135, 32);
+			this.button2.TabIndex = 27;
+			this.button2.Text = "ACERCA DE...";
+			this.button2.UseVisualStyleBackColor = true;
+			this.button2.Click += new System.EventHandler(this.Button2Click);
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(1117, 418);
+			this.Controls.Add(this.button2);
 			this.Controls.Add(this.label15);
 			this.Controls.Add(this.label14);
 			this.Controls.Add(this.label13);
@@ -280,6 +291,7 @@ namespace GIT
 			this.ResumeLayout(false);
 			this.PerformLayout();
 		}
+		private System.Windows.Forms.Button button2;
 		private System.Windows.Forms.Label label15;
 		private System.Windows.Forms.Label label14;
 		private System.Windows.Forms.Label label13;

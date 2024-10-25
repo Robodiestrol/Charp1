@@ -5,3 +5,4 @@ C:\Users\yaell\Documents\Git\CARPETA\GIT\bin\Debug\GIT.exe
 C:\Users\yaell\Documents\Git\CARPETA\GIT\bin\Debug\GIT.pdb
 C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.exe
 C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.pdb
+C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.ACERCA_DE____.resources

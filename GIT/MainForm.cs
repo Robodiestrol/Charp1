@@ -53,5 +53,11 @@ namespace GIT
 		
 
 		
+		
+		void Button2Click(object sender, EventArgs e)
+		{
+			ACERCA_DE____ form2 = new ACERCA_DE____();
+            form2.Show();			
+		}
 	}
 }
