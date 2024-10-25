@@ -1,0 +1,7 @@
+C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.csprojResolveAssemblyReference.cache
+C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.MainForm.resources
+C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.csproj.GenerateResource.Cache
+C:\Users\yaell\Documents\Git\CARPETA\GIT\bin\Debug\GIT.exe
+C:\Users\yaell\Documents\Git\CARPETA\GIT\bin\Debug\GIT.pdb
+C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.exe
+C:\Users\yaell\Documents\Git\CARPETA\GIT\obj\Debug\GIT.pdb
