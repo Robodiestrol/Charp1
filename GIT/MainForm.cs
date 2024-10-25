@@ -42,7 +42,7 @@ namespace GIT
 			o=ap1.Substring(0,2);
 			i=ap2.Substring(0,1);
 			
-			label11.Text=o.ToUpper()+i+p+fech;
+			MessageBox.Show(nam.ToUpper()+" "+ap1.ToUpper()+" "+ap2.ToUpper()+" "+o.ToUpper()+i+p+fech);
 			
 			
 		}
